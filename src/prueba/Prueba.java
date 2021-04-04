@@ -16,6 +16,8 @@ public class Prueba {
      */
     public static void main(String[] args) {
         System.out.print("esto es una prueba");
+        
+        System.out.print("segumis con la prueeba");
     }
     
 }
